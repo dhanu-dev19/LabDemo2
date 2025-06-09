@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sample text..
+=======
+sample text..
+>>>>>>> 37a9d54b3c6c15dfbce9b80ae898c1b845d5ef81
